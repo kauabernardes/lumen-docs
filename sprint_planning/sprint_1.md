@@ -20,7 +20,7 @@
 - Assignee: Time de Desenvolvimento
 - Contexto: Devido ao tempo reduzido, esta etapa consumiu a maior parte da Sprint para garantir uma base sólida.
 - Tarefas Vinculadas:
-    - [x] Estudos iniciais #19
+    - [ ] Estudos iniciais #19 (Em Andamento)
     - [x] Definir estruturas de pastas #3
     - [x] Iniciar projeto do Backend #2
     - [ ] Revisão do Modelo de Banco de Dados #11
@@ -41,7 +41,7 @@
     - [ ] Endpoint de Login #9 (Estrutura inicial)
     - [ ] Integração do Fluxo de Autenticação #4 (Bloqueado para a próxima sprint)
 
-### Setup de Sessão e Home 
+### Setup de Sessão (RF0021) e Home 
 > Contexto: Determinadas tarefas referentes ao uso contínuo da aplicação não puderam ser iniciadas devido ao corte no tempo da Sprint. Elas foram movidas diretamente para a Sprint 02.
 
 - Tarefas Vinculadas:
