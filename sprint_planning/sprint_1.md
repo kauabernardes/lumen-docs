@@ -1,8 +1,11 @@
 # Sprint Planning - Sprint 01 (Revisada)
 
 **Data**: 25/02/2026 a 04/03/2026 (Prazo de entrega do Fluxo Principal)
+
 **Participantes**: Facilitador (Scrum Master), Time de Desenvolvimento
+
 **Sprint Duration**: 1 semana (5 dias úteis)
+
 **Sprint Goal**: Início de estudos de tecnologias, setup inicial da infraestrutura e início da construção visual e estrutural do fluxo principal.
 
 ## 📊 Sprint Capacity
@@ -31,8 +34,10 @@
 - Prioridade: Must Have
 - Histórias de Usuário:
     - RF0001 (Cadastro de Usuário): Como um novo usuário, eu quero criar uma conta informando nome, e-mail, celular e senha, para acessar o sistema. 
-    - RF0002 (Login de Usuário): Como um usuário registrado, eu quero fazer login com e-mail e senha, para acessar minha conta. 
-    > Contexto: O desenvolvimento foi iniciado, focando na criação das telas e no esqueleto das rotas, mas a integração completa de autenticação precisará ser finalizada na próxima sprint.
+    - RF0002 (Login de Usuário): Como um usuário registrado, eu quero fazer login com e-mail e senha, para acessar minha conta.
+
+
+> Contexto: O desenvolvimentomas a integração completa de autenticação precisará ser finalizada na próxima sprint.
 
 - Tarefas Vinculadas:
     - [ ] Desenvolver Telas - Primeira Entrega #1 (Iniciado focado em Login/Cadastro)
