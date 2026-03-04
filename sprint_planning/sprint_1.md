@@ -24,7 +24,7 @@
     - [x] Definir estruturas de pastas #3
     - [x] Iniciar projeto do Backend #2
     - [ ] Revisão do Modelo de Banco de Dados #11
-    - [ ] Conectar com banco de dados #8 (Transferido/Em andamento)
+    - [x] Conectar com banco de dados #8 (Transferido/Em andamento)
     - [ ] Criar entidades ORM #7 (Transferido/Em andamento)
 
 ### Início do Fluxo de Autenticação (RF0001 e RF0002)
@@ -47,11 +47,11 @@
 - Tarefas Vinculadas:
     - [ ] Desenvolver Tela de Home #5
     - [ ] Desenvolver Tela da Sessão Ativa #6
-    - [ ] Sistema de Sessão - Backend #10
+    - [ ] Sistema de Sessão - Backend #10 (Em Andamento)
     - [ ] Endpoints e Integrações de IA/WebSockets (#13 a #18)
 
 ### ✅ Definition of Done
-[x] Ambientes de desenvolvimento configurados e repositórios organizados.
-[x] Estudos das tecnologias base concluídos para iniciar o código.
-[ ] Modelagem de banco de dados revisada.
-[ ] Telas iniciais (Login/Cadastro) mapeadas/desenhadas no código.
+- [x] Ambientes de desenvolvimento configurados e repositórios organizados.
+- [x] Estudos das tecnologias base concluídos para iniciar o código.
+- [ ] Modelagem de banco de dados revisada.
+- [ ] Telas iniciais (Login/Cadastro) mapeadas/desenhadas no código.
